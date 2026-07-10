@@ -26,6 +26,12 @@ from run_analysis import ANALYSIS_FILES, named_queries  # noqa: E402
 
 DB_PATH = ROOT / "data" / "processed" / "store.db"
 
+# The .db is git-ignored; on a fresh checkout (e.g. Streamlit Cloud) build
+# it from the committed cleaned CSVs.
+if not DB_PATH.exists():
+    import load_db
+    load_db.main()
+
 # --- palette (fixed identity colors; magnitude bars use a single hue) ---
 BLUE, AQUA, YELLOW = "#2a78d6", "#1baf7a", "#eda100"
 LOCATION_COLORS = {"Dania Beach": BLUE, "Oakland Park": AQUA, "Lake Worth": YELLOW}
