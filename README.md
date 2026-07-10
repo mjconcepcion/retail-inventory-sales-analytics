@@ -4,6 +4,8 @@ End-to-end analytics for a fictional multi-location record store: a Python ETL p
 
 > **Which products are selling, which are sitting too long, and what inventory should be transferred between locations?**
 
+**Live dashboard: [mjconcepcion-retail-analytics.streamlit.app](https://mjconcepcion-retail-analytics.streamlit.app/)**
+
 ![Dashboard overview](reports/dashboard_screenshots/overview.png)
 
 ## The business problem
