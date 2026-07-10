@@ -1,0 +1,301 @@
+product_id,sku,artist,title,format,genre,condition,cost,price,release_year
+P0082,WGB-31079,Selena,Selected Works,Cassette,Latin,New,5.87,11.34,2011
+P0003,WGB-23396,Bad Bunny,Bad Motion,CD,Latin,New,6.96,11.11,1978
+P0153,WGB-28191,Fleetwood Mac,Grooves,LP,Rock,New,13.88,24.73,1963
+P0268,WGB-74054,The Rolling Stones,Coastline,LP,Rock,New,16.07,28.7,2021
+P0247,WGB-74634,Buena Vista Social Club,Buena Afterhours,LP,Latin,Used,4.53,11.6,
+P0008,WGB-84341,Herbie Hancock,Live at the Regal,LP,Jazz,New,15.82,23.36,1999
+P0048,WGB-68008,Bad Bunny,The Early Years,LP,Latin,New,25.79,43.54,2026
+P0169,WGB-83619,Wu-Tang Clan,Wu-Tang Horizons,LP,Hip-Hop,New,17.48,28.05,1982
+P0199,WGB-99285,Four Tet,Blueprint,CD,Electronic,New,8.04,11.97,2011
+P0170,WGB-19706,Mastodon,The Early Years,LP,Metal,Used,5.2,12.29,2021
+P0245,WGB-23538,OutKast,OutKast Anthology,LP,Hip-Hop,New,18.47,30.57,2016
+P0028,WGB-11220,Alice Coltrane,Nights,CD,Jazz,New,13.63,22.61,1999
+P0021,WGB-68800,Erik Satie,Erik Live at the Regal,LP,Classical,New,13.23,20.19,1972
+P0104,WGB-73156,Celia Cruz,Interstellar,LP,Latin,New,13.37,23.8,
+P0265,WGB-58929,Thelonious Monk,Afterhours,LP,Jazz,New,13.06,19.55,1974
+P0075,WGB-37659,Philip Glass,Afterhours,CD,Classical,Used,7.38,16.43,1971
+P0240,WGB-60311,Al Green,Vol. II,LP,Soul/Funk,Used,10.45,29.77,2008
+P0103,WGB-36318,Black Sabbath,Black Afterhours,LP,Metal,New,14.55,23.52,1996
+P0182,WGB-16632,Nas,Anthology,LP,Hip-Hop,New,16.64,25.07,1993
+P0226,WGB-36805,Radiohead,Echoes,Cassette,Alternative,New,9.82,19.09,2020
+P0272,WGB-66120,Claude Debussy,Echoes,CD,Classical,Used,6.86,18.29,2003
+P0297,WGB-23487,Juan Luis Guerra,Rarities,LP,Latin,Used,7.04,17.64,1980
+P0089,WGB-73483,Iron Maiden,Sessions,LP,Metal,New,23.71,38.61,2021
+P0279,WGB-70238,Juan Luis Guerra,Juan Selected Works,CD,Latin,Used,1.93,5.18,1965
+P0133,WGB-61873,Parliament,Vol. II,LP,Soul/Funk,New,19.01,31.55,
+P0205,WGB-21368,Buena Vista Social Club,Motion,LP,Latin,Used,12.1,34.1,2010
+P0186,WGB-57516,Interpol,Rarities,CD,Alternative,New,5.43,8.27,2010
+P0184,WGB-69930,Tom Petty,The Early Years,LP,Rock,New,10.53,16.92,1961
+P0282,WGB-27393,Grant Green,Blueprint,LP,Jazz,New,9.02,14.8,1971
+P0192,WGB-64890,Al Green,Nights,CD,Soul/Funk,New,6.73,9.96,1973
+P0111,,A Tribe Called Quest,Rarities,LP,Hip-Hop,Used,3.67,9.29,2004
+P0043,WGB-49829,Santana,In Dub,CD,Rock,Used,4.11,11.96,1997
+P0058,WGB-83920,Led Zeppelin,Echoes,CD,Rock,Used,2.41,6.59,1989
+P0270,WGB-67850,Fleetwood Mac,Horizons,CD,Rock,Used,4.93,13.93,2005
+P0088,WGB-64387,Willie Colon,Echoes,"7""",Latin,New,8.29,14.79,1976
+P0210,WGB-18094,Roy Ayers,Vol. II,LP,Soul/Funk,New,10.33,17.31,2005
+P0068,WGB-50189,Nas,Interstellar,LP,Hip-Hop,Used,6.87,18.85,2001
+P0136,WGB-94278,Sister Nancy,Selected Works,LP,Reggae,Used,10.49,34.18,2016
+P0032,WGB-46265,Boards of Canada,Boards Interstellar,LP,Electronic,Used,4.02,10.89,1965
+P0271,WGB-21401,Erik Satie,Grooves,CD,Classical,New,9.16,13.23,1963
+P0150,WGB-58655,A Tribe Called Quest,Echoes,CD,Hip-Hop,New,5.44,8.12,1991
+P0078,WGB-31747,Fleetwood Mac,Coastline,LP,Rock,New,23.05,34.08,1993
+P0009,,Grant Green,Selected Works,LP,Jazz,Used,4.57,10.82,2017
+P0292,WGB-77017,J Dilla,Vol. II,CD,Hip-Hop,New,7.55,10.79,1978
+P0117,WGB-68138,MF DOOM,MF Live at the Regal,Cassette,Hip-Hop,Used,4.22,13.24,2013
+P0144,WGB-99838,Nas,Vol. II,LP,Hip-Hop,New,22.82,39.21,2001
+P0201,WGB-33040,Aphex Twin,Grooves,LP,Electronic,New,24.52,37.27,1963
+P0079,WGB-75597,Four Tet,Reflections,LP,Electronic,New,20.9,38.19,1997
+P0155,WGB-18232,Pink Floyd,Pink Blueprint,LP,Rock,New,19.86,33.74,2012
+P0174,WGB-19720,Al Green,Interstellar,LP,Soul/Funk,New,11.13,17.55,1968
+P0070,WGB-49618,J.S. Bach,J.S. Basement Tapes,LP,Classical,New,14.04,22.38,1983
+P0013,WGB-49117,Wu-Tang Clan,Horizons,Cassette,Hip-Hop,Used,5.22,19.04,2023
+P0164,WGB-96628,Marvin Gaye,Unplugged,LP,Soul/Funk,Used,6.53,14.99,1996
+P0039,WGB-44237,Pixies,Rarities,CD,Alternative,New,13.73,18.68,2001
+P0086,WGB-24871,Daft Punk,Motion,LP,Electronic,New,10.58,19.54,2011
+P0099,WGB-42780,Daft Punk,Vol. II,LP,Electronic,New,19.86,32.17,1997
+P0038,WGB-62227,Slayer,Rarities,LP,Metal,Used,5.45,16.31,1988
+P0128,WGB-98930,Burial,Horizons,LP,Electronic,New,16.31,25.5,2003
+P0173,WGB-50539,Celia Cruz,Coastline,LP,Latin,New,19.4,28.8,1975
+P0050,WGB-45614,Iron Maiden,Interstellar,LP,Metal,New,10.32,16.14,2015
+P0298,WGB-60197,Aphex Twin,Blueprint,CD,Electronic,New,7.24,10.79,1960
+P0252,WGB-37479,Toots & The Maytals,Afterhours,Cassette,Reggae,New,10.08,18.54,1962
+P0011,WGB-42953,Led Zeppelin,Frequencies,LP,Rock,New,19.13,31.32,2007
+P0020,WGB-17100,Alice Coltrane,Unplugged,LP,Jazz,New,15.02,24.25,2014
+P0045,WGB-36100,Grant Green,Grant Grooves,LP,Jazz,New,20.44,31.47,1989
+P0106,WGB-98125,Iron Maiden,Vol. II,CD,Metal,New,9.2,14.38,1974
+P0269,WGB-74921,Buena Vista Social Club,Reflections,LP,Latin,New,11.86,19.37,1995
+P0121,WGB-83608,Black Sabbath,Unplugged,LP,Metal,Used,9.12,26.48,1975
+P0178,WGB-13718,Tom Petty,Tom Nights,LP,Rock,Used,12.27,35.29,2002
+P0222,WGB-34101,Wu-Tang Clan,Frequencies,LP,Hip-Hop,New,15.94,25.03,2012
+P0062,WGB-57472,OutKast,Vol. II,LP,Hip-Hop,New,22.98,34.29,2012
+P0042,WGB-48752,Floating Points,Anthology,CD,Electronic,New,11.19,16.07,1998
+P0109,WGB-80804,Alice Coltrane,Anthology,LP,Jazz,Used,7.28,19.26,1976
+P0187,WGB-58915,Tom Petty,The Early Years,CD,Rock,New,6.15,8.33,1974
+P0190,WGB-98317,Juan Luis Guerra,Juan Coastline,LP,Latin,Used,11.97,31.63,2019
+P0264,WGB-98288,Alice Coltrane,Basement Tapes,LP,Jazz,New,23.37,39.66,2004
+P0019,WGB-84847,Pink Floyd,Vol. II,LP,Rock,New,12.64,19.0,2021
+P0258,WGB-28569,Celia Cruz,Sessions,LP,Latin,New,10.97,20.03,1969
+P0246,WGB-21101,MF DOOM,Basement Tapes,LP,Hip-Hop,New,9.21,14.88,2008
+P0036,WGB-53540,Curtis Mayfield,Motion,Cassette,Soul/Funk,Used,1.31,4.54,2011
+P0005,WGB-39871,Grant Green,Basement Tapes,"7""",Jazz,New,7.34,12.32,1983
+P0289,WGB-27299,The Rolling Stones,Grooves,LP,Rock,New,25.78,47.01,1960
+P0165,WGB-56210,Wu-Tang Clan,Unplugged,LP,Hip-Hop,New,9.72,17.48,2016
+P0294,WGB-33022,The Rolling Stones,The Anthology,LP,Rock,Used,10.33,30.88,1998
+P0238,WGB-99709,Bad Bunny,Interstellar,"7""",Latin,New,4.76,9.91,2019
+P0194,WGB-99226,Four Tet,In Dub,LP,Electronic,New,18.29,31.47,2002
+P0091,WGB-95461,Black Sabbath,Standards,CD,Metal,Used,3.99,10.86,2007
+P0073,WGB-21164,MF DOOM,Afterhours,CD,Hip-Hop,New,12.53,20.85,1978
+P0085,WGB-25915,Aphex Twin,Aphex Echoes,LP,Electronic,New,16.45,28.45,1995
+P0131,WGB-51033,Iron Maiden,Vol. II,LP,Metal,Used,3.21,10.61,2014
+P0287,WGB-96298,A Tribe Called Quest,Blueprint,LP,Hip-Hop,New,22.24,38.39,1995
+P0022,WGB-11934,The Rolling Stones,Blueprint,"7""",Rock,New,3.45,7.3,1971
+P0064,WGB-70910,Pantera,Horizons,LP,Metal,New,13.74,22.4,1970
+P0293,WGB-41278,Claude Debussy,Claude Coastline,LP,Classical,Used,6.41,17.47,1967
+P0077,WGB-96662,Herbie Hancock,The Early Years,LP,Jazz,New,22.39,38.06,1992
+P0206,WGB-44995,Led Zeppelin,Selected Works,LP,Rock,New,15.52,25.28,1992
+P0034,WGB-57795,Sister Nancy,Nights,LP,Reggae,Used,7.73,17.39,1977
+P0132,WGB-91018,Selena,Grooves,LP,Latin,New,25.43,38.62,1961
+P0072,WGB-24953,Willie Colon,Selected Works,LP,Latin,New,13.29,23.85,1965
+P0001,WGB-21395,Aphex Twin,Horizons,LP,Electronic,New,20.5,37.04,1972
+P0076,WGB-48175,Led Zeppelin,Led Motion,LP,Rock,New,16.66,28.11,2011
+P0123,WGB-82910,Nas,Interstellar,LP,Hip-Hop,Used,12.32,32.28,1987
+P0012,WGB-48469,The Cure,Frequencies,CD,Alternative,Used,6.3,14.93,1993
+P0101,WGB-47512,Slayer,Horizons,LP,Metal,Used,13.02,40.29,1965
+P0285,WGB-92323,Aphex Twin,Interstellar,LP,Electronic,Used,7.84,24.04,1980
+P0217,WGB-55371,Arvo Part,Frequencies,CD,Classical,New,12.65,17.82,2007
+P0055,WGB-16590,Willie Colon,Afterhours,LP,Latin,New,11.31,18.49,2013
+P0084,WGB-91609,Pantera,Sessions,CD,Metal,New,5.46,8.22,2011
+P0105,WGB-62089,Herbie Hancock,Anthology,LP,Jazz,New,23.62,41.09,1987
+P0137,WGB-87518,Floating Points,Floating Standards,LP,Electronic,New,19.73,34.89,2015
+P0138,WGB-21835,Celia Cruz,The Early Years,LP,Latin,New,10.3,18.5,1995
+P0151,WGB-67340,Tom Petty,Tom Anthology,LP,Rock,Used,7.94,22.36,1993
+P0211,WGB-86434,Radiohead,Afterhours,LP,Alternative,New,16.51,28.43,2025
+P0016,WGB-65461,Buena Vista Social Club,Nights,CD,Latin,Used,3.26,9.61,1980
+P0118,WGB-48652,Tom Petty,Nights,LP,Rock,New,15.48,26.15,2000
+P0047,WGB-77889,Grant Green,Sessions,"7""",Jazz,Used,4.05,11.39,1972
+P0195,WGB-49008,Roy Ayers,Selected Works,LP,Soul/Funk,New,12.82,23.58,1997
+P0276,WGB-58374,MF DOOM,Grooves,CD,Hip-Hop,Used,4.77,10.98,2010
+P0250,WGB-62198,Wu-Tang Clan,Basement Tapes,LP,Hip-Hop,New,17.14,26.07,1984
+P0213,WGB-18357,Al Green,Horizons,CD,Soul/Funk,Used,1.93,4.58,1968
+P0261,WGB-96154,Tom Petty,Unplugged,Cassette,Rock,New,7.88,13.52,2010
+P0061,WGB-15383,Aphex Twin,Reflections,"7""",Electronic,Used,4.12,13.54,1974
+P0002,WGB-64987,Fleetwood Mac,Echoes,LP,Rock,Used,10.88,33.09,1984
+P0140,WGB-94689,Four Tet,Nights,Cassette,Electronic,New,10.28,17.16,2002
+P0162,WGB-67272,Boards of Canada,Rarities,"7""",Electronic,New,4.77,9.66,2001
+P0171,WGB-82089,Sonic Youth,Vol. II,CD,Alternative,Used,5.69,15.79,1999
+P0251,WGB-61502,Grant Green,Grooves,LP,Jazz,Used,6.58,16.69,1990
+P0215,WGB-80687,J Dilla,J The Early Years,"7""",Hip-Hop,Used,1.36,5.21,2007
+P0094,WGB-73956,MF DOOM,Standards,"7""",Hip-Hop,Used,4.72,15.94,2007
+P0299,WGB-51934,Fleetwood Mac,Coastline,CD,Rock,Used,3.01,6.83,2012
+P0007,WGB-93886,Sister Nancy,Vol. II,LP,Reggae,New,11.78,18.87,1990
+P0112,WGB-26505,Black Sabbath,Frequencies,LP,Metal,Used,3.56,9.26,1961
+P0228,WGB-83731,Mastodon,Selected Works,CD,Metal,New,8.42,12.36,1985
+P0232,WGB-29795,Bad Bunny,Bad Frequencies,LP,Latin,New,23.32,35.97,1976
+P0277,WGB-97050,Juan Luis Guerra,Sessions,"7""",Latin,Used,3.86,12.14,1970
+P0049,WGB-43972,Roy Ayers,Unplugged,CD,Soul/Funk,New,11.9,17.75,1979
+P0212,WGB-98181,Sonic Youth,Live at the Regal,LP,Alternative,New,18.59,31.11,2017
+P0216,WGB-10455,The Cure,Motion,Cassette,Alternative,New,8.55,14.8,1975
+P0291,WGB-75673,Led Zeppelin,Live at the Regal,"7""",Rock,Used,3.0,10.13,2009
+P0023,WGB-10282,Radiohead,Motion,LP,Alternative,New,24.34,36.9,2010
+P0203,WGB-76088,Pixies,Reflections,LP,Alternative,Used,8.43,28.04,
+P0080,WGB-98381,Nas,Live at the Regal,"7""",Hip-Hop,Used,1.15,3.25,1991
+P0286,WGB-60335,My Bloody Valentine,Frequencies,LP,Alternative,New,11.38,17.06,1971
+P0200,WGB-47649,Tom Petty,Motion,LP,Rock,Used,8.25,20.12,2019
+P0300,WGB-16019,Pink Floyd,Anthology,LP,Rock,Used,5.46,15.39,1981
+P0154,WGB-89807,Nas,Sessions,"7""",Hip-Hop,New,8.12,15.49,1986
+P0004,WGB-59615,Pink Floyd,Pink Basement Tapes,LP,Rock,New,18.12,33.33,2017
+P0188,WGB-53652,Herbie Hancock,Nights,LP,Jazz,New,9.68,14.19,2023
+P0273,WGB-48356,Led Zeppelin,Echoes,CD,Rock,Used,5.26,11.49,1994
+P0142,WGB-43029,Aphex Twin,Grooves,CD,Electronic,New,10.17,14.84,1971
+P0024,WGB-17665,Alice Coltrane,Reflections,LP,Jazz,Used,4.7,12.01,2021
+P0063,WGB-73372,Mastodon,Nights,LP,Metal,Used,9.78,32.31,1993
+P0255,WGB-56531,Iron Maiden,Coastline,LP,Metal,Used,11.46,34.26,1972
+P0110,WGB-58566,Curtis Mayfield,Unplugged,CD,Soul/Funk,Used,7.33,16.9,2011
+P0295,WGB-43980,Sly & The Family Stone,Sessions,LP,Soul/Funk,Used,8.69,27.7,2025
+P0096,WGB-48452,Marvin Gaye,The Early Years,LP,Soul/Funk,New,9.78,17.3,1962
+P0143,WGB-95990,Four Tet,Nights,LP,Electronic,Used,13.08,33.65,1977
+P0227,WGB-75179,Herbie Hancock,Reflections,LP,Jazz,New,14.24,22.7,2004
+P0149,WGB-60052,Alice Coltrane,Echoes,LP,Jazz,Used,8.08,20.51,2015
+P0158,WGB-12128,Bad Bunny,In Dub,"7""",Latin,New,8.99,15.94,2008
+P0026,WGB-84668,Led Zeppelin,Vol. II,LP,Rock,Used,7.44,24.77,1989
+P0185,WGB-24089,Herbie Hancock,Live at the Regal,LP,Jazz,New,13.86,20.14,2019
+P0231,WGB-94123,Wu-Tang Clan,Rarities,LP,Hip-Hop,Used,5.02,16.4,2021
+P0177,WGB-22245,Iron Maiden,Echoes,CD,Metal,Used,5.43,14.51,1975
+P0122,WGB-47700,Burial,Rarities,"7""",Electronic,Used,4.39,15.39,2013
+P0257,WGB-99070,Grant Green,Interstellar,LP,Jazz,Used,7.9,21.09,1987
+P0189,WGB-49221,Buena Vista Social Club,Basement Tapes,"7""",Latin,New,4.12,8.68,1999
+P0081,WGB-46458,Bad Bunny,Frequencies,CD,Latin,Used,4.5,12.2,1981
+P0266,WGB-94575,Willie Colon,Basement Tapes,LP,Latin,New,17.27,28.75,1982
+P0041,,Celia Cruz,Live at the Regal,CD,Latin,New,8.35,11.22,1984
+P0092,WGB-78937,Bad Bunny,Nights,LP,Latin,Used,12.62,34.43,1971
+P0281,WGB-16787,Herbie Hancock,Vol. II,CD,Jazz,New,11.17,17.35,2006
+P0221,WGB-74962,OutKast,OutKast Live at the Regal,LP,Hip-Hop,Used,9.89,26.83,1981
+P0204,WGB-54185,Fleetwood Mac,Standards,LP,Rock,New,21.22,30.89,1991
+P0146,,Claude Debussy,Claude Vol. II,LP,Classical,Used,11.48,36.76,2023
+P0031,WGB-54942,Led Zeppelin,Horizons,LP,Rock,New,13.63,23.06,1978
+P0208,WGB-27507,Sly & The Family Stone,Reflections,CD,Soul/Funk,Used,3.87,8.68,1996
+P0267,WGB-11256,Led Zeppelin,Selected Works,LP,Rock,New,19.53,35.08,2016
+P0107,WGB-52992,Wu-Tang Clan,Rarities,LP,Hip-Hop,New,19.53,35.69,1962
+P0168,WGB-28047,Juan Luis Guerra,Nights,CD,Latin,Used,4.33,9.03,2006
+P0108,WGB-15943,Miles Davis,Grooves,CD,Jazz,Used,5.58,11.87,1997
+P0176,WGB-78012,Fleetwood Mac,Interstellar,LP,Rock,New,24.89,38.34,2000
+P0241,WGB-19963,Santana,Vol. II,LP,Rock,Used,4.07,10.09,1965
+P0236,WGB-14152,A Tribe Called Quest,A Blueprint,LP,Hip-Hop,Used,10.19,32.91,1969
+P0284,WGB-27451,Miles Davis,Anthology,LP,Jazz,New,11.33,19.93,1997
+P0163,WGB-44959,Al Green,Standards,Cassette,Soul/Funk,New,6.1,12.13,2022
+P0209,WGB-38627,Nas,Rarities,LP,Hip-Hop,New,21.87,38.73,2019
+P0243,WGB-42302,Augustus Pablo,Motion,CD,Reggae,Used,6.32,14.68,1969
+P0098,WGB-70981,Thelonious Monk,Nights,LP,Jazz,Used,5.81,12.85,2017
+P0167,WGB-57467,Tom Petty,Frequencies,CD,Rock,New,7.16,11.11,1967
+P0274,WGB-95969,Thelonious Monk,Thelonious Frequencies,CD,Jazz,New,13.54,22.73,2011
+P0018,WGB-40007,Fleetwood Mac,Fleetwood Afterhours,LP,Rock,Used,3.78,11.18,1959
+P0040,WGB-25157,Burning Spear,Live at the Regal,LP,Reggae,New,16.42,30.27,1999
+P0249,WGB-53193,Burial,Anthology,LP,Electronic,New,14.65,24.88,2009
+P0127,WGB-96761,Bad Bunny,Live at the Regal,LP,Latin,Used,10.41,26.3,1965
+P0148,WGB-40671,Pink Floyd,Frequencies,CD,Rock,Used,6.2,17.71,1995
+P0066,,Boards of Canada,Coastline,LP,Electronic,Used,5.65,15.19,
+P0214,WGB-94656,Fleetwood Mac,Selected Works,LP,Rock,New,22.02,40.55,1976
+P0296,WGB-85582,Pink Floyd,Anthology,CD,Rock,New,7.49,10.05,2013
+P0260,WGB-77632,Black Sabbath,Sessions,"7""",Metal,Used,4.63,16.34,1980
+P0124,WGB-45054,Roy Ayers,Roy Blueprint,CD,Soul/Funk,Used,5.33,14.5,1962
+P0225,WGB-53642,Nas,Basement Tapes,LP,Hip-Hop,New,17.15,30.83,1986
+P0161,WGB-43202,John Coltrane,John Live at the Regal,LP,Jazz,New,25.82,43.05,2009
+P0244,WGB-10680,Led Zeppelin,In Dub,CD,Rock,Used,3.56,7.54,2008
+P0183,WGB-50988,Nas,Unplugged,LP,Hip-Hop,Used,11.95,39.68,1979
+P0159,WGB-54374,Led Zeppelin,Frequencies,CD,Rock,Used,2.46,5.86,2001
+P0015,WGB-19071,Pixies,Blueprint,LP,Alternative,Used,3.94,10.97,1969
+P0229,WGB-40149,Marvin Gaye,Horizons,LP,Soul/Funk,Used,6.25,15.22,
+P0197,WGB-43612,Philip Glass,Nights,LP,Classical,New,14.89,24.23,1969
+P0095,WGB-22903,Fleetwood Mac,Blueprint,CD,Rock,Used,6.17,15.25,1988
+P0025,WGB-17455,Selena,Standards,LP,Latin,Used,13.11,37.2,2023
+P0115,WGB-18330,Pantera,Standards,LP,Metal,New,21.61,35.88,1975
+P0126,WGB-52517,Erik Satie,Interstellar,LP,Classical,New,11.68,18.39,2002
+P0157,WGB-76496,Alice Coltrane,Motion,CD,Jazz,New,5.58,8.43,2005
+P0262,WGB-18200,Tom Petty,Echoes,LP,Rock,New,20.98,32.15,1959
+P0254,WGB-64827,Floating Points,Unplugged,CD,Electronic,New,10.39,15.72,2020
+P0248,WGB-91924,Pink Floyd,Unplugged,LP,Rock,Used,5.77,14.4,2005
+P0234,WGB-33496,Tom Petty,Tom Horizons,LP,Rock,New,22.82,39.24,2023
+P0029,WGB-42018,Erik Satie,Vol. II,LP,Classical,New,24.87,44.82,1975
+P0017,WGB-25860,Interpol,Echoes,CD,Alternative,New,9.05,13.63,2006
+P0093,WGB-54375,Led Zeppelin,Unplugged,"7""",Rock,Used,2.86,10.98,1968
+P0069,WGB-46241,Led Zeppelin,Standards,LP,Rock,New,12.26,21.4,1982
+P0278,WGB-47171,My Bloody Valentine,In Dub,LP,Alternative,New,17.41,27.49,1986
+P0139,WGB-95437,Willie Colon,Afterhours,LP,Latin,Used,7.95,25.22,1964
+P0046,WGB-60328,The Rolling Stones,Basement Tapes,"7""",Rock,New,8.42,16.17,2012
+P0181,WGB-62260,J Dilla,J Echoes,LP,Hip-Hop,New,21.48,38.54,1999
+P0056,WGB-43065,Alice Coltrane,Standards,LP,Jazz,Used,11.27,36.04,1994
+P0202,WGB-84443,The Rolling Stones,Selected Works,LP,Rock,Used,12.64,27.95,1996
+P0175,WGB-75911,Parliament,Nights,"7""",Soul/Funk,Used,4.01,10.78,1982
+P0006,WGB-97841,Claude Debussy,Anthology,LP,Classical,New,11.77,18.74,2005
+P0230,WGB-94108,Slayer,Coastline,CD,Metal,Used,6.27,15.88,1991
+P0120,WGB-72163,J Dilla,J Anthology,LP,Hip-Hop,New,15.36,23.21,
+P0275,WGB-45221,Radiohead,Nights,CD,Alternative,Used,4.61,12.12,2009
+P0263,WGB-79168,Pantera,Motion,LP,Metal,New,13.46,24.16,1973
+P0053,WGB-89069,Burning Spear,In Dub,"7""",Reggae,Used,3.12,11.0,2012
+P0280,WGB-27290,Radiohead,The Early Years,LP,Alternative,Used,5.23,15.83,2013
+P0083,WGB-52372,Parliament,Parliament Frequencies,Cassette,Soul/Funk,Used,3.2,9.28,1963
+P0166,WGB-30969,Wu-Tang Clan,Live at the Regal,LP,Hip-Hop,Used,8.64,26.78,2005
+P0218,WGB-87849,Santana,Santana Anthology,LP,Rock,Used,5.65,12.89,
+P0071,WGB-23446,Celia Cruz,Live at the Regal,Cassette,Latin,Used,4.01,14.0,1975
+P0288,WGB-41370,Thelonious Monk,Interstellar,LP,Jazz,New,22.32,39.45,1965
+P0145,WGB-73736,Santana,Unplugged,LP,Rock,New,12.06,18.52,1998
+P0239,WGB-28899,My Bloody Valentine,Frequencies,LP,Alternative,Used,3.17,7.76,1999
+P0198,WGB-41363,Thelonious Monk,Horizons,"7""",Jazz,Used,1.47,5.19,1976
+P0074,WGB-48974,The Rolling Stones,Basement Tapes,LP,Rock,Used,7.18,23.62,
+P0253,WGB-49692,Grant Green,Vol. II,CD,Jazz,Used,5.72,12.31,2011
+P0067,WGB-50135,Sly & The Family Stone,Selected Works,LP,Soul/Funk,New,12.77,22.05,1996
+P0065,WGB-54608,Boards of Canada,Sessions,LP,Electronic,New,12.61,22.31,2021
+P0130,WGB-40161,Parliament,Standards,LP,Soul/Funk,New,11.99,19.21,2014
+P0259,WGB-18804,A Tribe Called Quest,Interstellar,LP,Hip-Hop,New,21.27,34.69,2015
+P0059,WGB-50768,OutKast,OutKast Rarities,LP,Hip-Hop,Used,11.56,27.7,1973
+P0193,WGB-83516,Al Green,Interstellar,CD,Soul/Funk,Used,5.92,15.19,1966
+P0196,WGB-81197,Sly & The Family Stone,Selected Works,LP,Soul/Funk,New,13.89,23.33,1994
+P0054,WGB-26728,Celia Cruz,Unplugged,LP,Latin,New,21.31,38.06,2010
+P0224,WGB-34966,Led Zeppelin,Led Horizons,LP,Rock,Used,12.32,28.47,2016
+P0014,WGB-74042,Buena Vista Social Club,Buena Nights,LP,Latin,New,24.61,41.58,2026
+P0219,,Floating Points,Floating Live at the Regal,LP,Electronic,New,12.98,19.95,2015
+P0033,WGB-11267,John Coltrane,John Grooves,Cassette,Jazz,New,7.35,13.41,2015
+P0237,WGB-94529,Nas,Selected Works,LP,Hip-Hop,New,10.41,18.61,1980
+P0134,WGB-55793,Curtis Mayfield,Standards,CD,Soul/Funk,New,9.91,13.77,1973
+P0242,WGB-39902,Roy Ayers,In Dub,Cassette,Soul/Funk,New,8.93,16.38,1993
+P0125,WGB-28595,Herbie Hancock,Standards,LP,Jazz,New,18.63,30.0,1977
+P0147,WGB-31697,Thelonious Monk,Nights,LP,Jazz,New,23.13,40.67,
+P0051,WGB-63424,The Cure,Nights,LP,Alternative,New,21.01,31.0,1978
+P0100,WGB-48696,Alice Coltrane,Alice Selected Works,LP,Jazz,New,18.77,34.67,2004
+P0113,WGB-88116,Thelonious Monk,Thelonious Echoes,LP,Jazz,Used,6.61,15.71,1988
+P0057,WGB-95426,Selena,Selena Coastline,LP,Latin,Used,10.15,31.85,1987
+P0119,WGB-64239,Aphex Twin,Anthology,"7""",Electronic,Used,2.71,10.1,1986
+P0233,WGB-79758,Celia Cruz,Live at the Regal,LP,Latin,Used,10.25,22.74,2020
+P0129,WGB-37686,Celia Cruz,Live at the Regal,LP,Latin,Used,3.08,7.89,1966
+P0030,WGB-49240,Tom Petty,Reflections,LP,Rock,Used,3.09,9.83,2026
+P0035,WGB-63264,Black Sabbath,Rarities,LP,Metal,New,15.01,25.13,1972
+P0290,WGB-12187,Slayer,Rarities,LP,Metal,New,25.23,44.36,2019
+P0172,WGB-28202,Radiohead,Grooves,LP,Alternative,New,11.06,16.93,1987
+P0152,WGB-20696,Sonic Youth,Rarities,"7""",Alternative,New,6.14,10.83,2009
+P0220,WGB-96535,Claude Debussy,Afterhours,LP,Classical,Used,5.61,18.24,2000
+P0191,WGB-32349,OutKast,Grooves,LP,Hip-Hop,New,21.26,35.79,1988
+P0235,WGB-58896,Led Zeppelin,Blueprint,LP,Rock,New,13.54,21.78,2004
+P0180,WGB-17852,Boards of Canada,Selected Works,LP,Electronic,Used,6.27,14.34,2010
+P0052,WGB-59857,MF DOOM,Echoes,CD,Hip-Hop,New,12.96,20.69,1961
+P0223,WGB-64592,Buena Vista Social Club,Reflections,"7""",Latin,New,8.59,16.45,
+P0160,WGB-69988,Santana,Santana The Early Years,Cassette,Rock,New,9.12,15.14,1982
+P0283,WGB-27324,Willie Colon,Sessions,LP,Latin,New,25.8,41.77,1974
+P0207,WGB-50213,Grant Green,Afterhours,LP,Jazz,Used,3.68,8.62,1989
+P0087,WGB-71894,Led Zeppelin,Selected Works,"7""",Rock,New,5.62,10.56,1993
+P0135,WGB-95918,Sister Nancy,Sister Nights,LP,Reggae,New,11.95,18.06,1984
+P0044,WGB-32241,Nas,Basement Tapes,CD,Hip-Hop,New,11.27,16.95,2015
+P0156,WGB-10205,My Bloody Valentine,Coastline,LP,Alternative,New,21.22,33.24,1989
+P0010,WGB-16175,Al Green,Afterhours,LP,Soul/Funk,New,17.66,26.25,1976
+P0060,WGB-87607,Pink Floyd,Afterhours,CD,Rock,Used,7.35,16.29,2009
+P0256,WGB-11382,Four Tet,Four Grooves,CD,Electronic,New,13.98,20.62,2001
+P0037,WGB-71694,Wu-Tang Clan,Blueprint,LP,Hip-Hop,Used,7.21,16.2,1972
+P0116,WGB-96363,Pantera,Afterhours,LP,Metal,New,21.36,38.74,1964
+P0141,WGB-63578,Alice Coltrane,The Early Years,LP,Jazz,Used,7.1,18.03,2005
+P0090,WGB-60196,Juan Luis Guerra,In Dub,LP,Latin,New,25.67,39.67,1983
+P0114,WGB-11947,Radiohead,Nights,LP,Alternative,Used,10.27,22.91,1973
+P0102,WGB-94717,Herbie Hancock,Herbie Blueprint,CD,Jazz,Used,5.45,16.27,1976
+P0179,WGB-92203,Gregory Isaacs,Horizons,CD,Reggae,Used,5.39,10.96,2012
+P0027,,Four Tet,Vol. II,LP,Electronic,Used,6.48,16.28,2025
+P0097,WGB-60140,A Tribe Called Quest,Interstellar,LP,Hip-Hop,Used,4.87,11.18,1982
