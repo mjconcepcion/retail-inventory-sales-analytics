@@ -1,0 +1,70 @@
+from_location,to_location,artist,title,format,genre,from_qty,from_days_sitting,to_location_demand_90d,suggested_transfer_qty,est_90d_revenue_at_dest
+Oakland Park,Dania Beach,Buena Vista Social Club,Motion,LP,Latin,11,120,14,6,477.4
+Lake Worth,Dania Beach,Buena Vista Social Club,Motion,LP,Latin,10,13,14,5,477.4
+Lake Worth,Dania Beach,Alice Coltrane,Basement Tapes,LP,Jazz,13,247,11,7,436.26
+Oakland Park,Dania Beach,Alice Coltrane,Basement Tapes,LP,Jazz,12,106,11,6,436.26
+Oakland Park,Dania Beach,Wu-Tang Clan,Rarities,LP,Hip-Hop,9,115,10,5,356.9
+Lake Worth,Dania Beach,Wu-Tang Clan,Rarities,LP,Hip-Hop,7,11,10,4,356.9
+Oakland Park,Dania Beach,Herbie Hancock,Nights,LP,Jazz,14,147,11,7,156.09
+Lake Worth,Dania Beach,Herbie Hancock,Nights,LP,Jazz,16,71,11,8,156.09
+Oakland Park,Dania Beach,Tom Petty,Tom Anthology,LP,Rock,11,71,6,6,134.16
+Oakland Park,Dania Beach,Burial,Anthology,LP,Electronic,7,61,5,4,124.4
+Oakland Park,Dania Beach,Miles Davis,Anthology,LP,Jazz,8,90,6,4,119.58
+Lake Worth,Dania Beach,Miles Davis,Anthology,LP,Jazz,6,16,6,3,119.58
+Oakland Park,Lake Worth,My Bloody Valentine,Coastline,LP,Alternative,10,308,3,5,99.72
+Oakland Park,Dania Beach,Al Green,Afterhours,LP,Soul/Funk,8,93,3,4,78.75
+Oakland Park,Dania Beach,Nas,Vol. II,LP,Hip-Hop,13,141,2,7,78.42
+Oakland Park,Dania Beach,Black Sabbath,Rarities,LP,Metal,9,100,3,5,75.39
+Oakland Park,Dania Beach,Pantera,Standards,LP,Metal,7,154,2,4,71.76
+Dania Beach,Oakland Park,Bad Bunny,Frequencies,CD,Latin,8,23,5,4,61.0
+Oakland Park,Dania Beach,Pantera,Motion,LP,Metal,13,148,2,7,48.32
+Oakland Park,Dania Beach,Nas,Sessions,"7""",Hip-Hop,9,152,3,5,46.47
+Lake Worth,Dania Beach,Nas,Sessions,"7""",Hip-Hop,7,33,3,4,46.47
+Oakland Park,Dania Beach,Burial,Rarities,"7""",Electronic,8,264,3,4,46.17
+Dania Beach,Lake Worth,Pink Floyd,Anthology,LP,Rock,5,66,3,3,46.17
+Lake Worth,Dania Beach,Burial,Rarities,"7""",Electronic,6,49,3,3,46.17
+Oakland Park,Lake Worth,Pantera,Horizons,LP,Metal,5,13,2,3,44.8
+Oakland Park,Dania Beach,Pantera,Horizons,LP,Metal,5,13,2,3,44.8
+Lake Worth,Oakland Park,Augustus Pablo,Motion,CD,Reggae,5,160,3,3,44.04
+Oakland Park,Lake Worth,MF DOOM,Echoes,CD,Hip-Hop,5,22,2,2,41.38
+Dania Beach,Oakland Park,Nas,Unplugged,LP,Hip-Hop,5,280,1,3,39.68
+Lake Worth,Oakland Park,Nas,Unplugged,LP,Hip-Hop,6,60,1,3,39.68
+Dania Beach,Oakland Park,Pixies,Rarities,CD,Alternative,6,119,2,3,37.36
+Lake Worth,Oakland Park,Pixies,Rarities,CD,Alternative,5,17,2,2,37.36
+Dania Beach,Lake Worth,Radiohead,Motion,LP,Alternative,5,39,1,3,36.9
+Oakland Park,Dania Beach,Alice Coltrane,Reflections,LP,Jazz,13,125,3,7,36.03
+Oakland Park,Dania Beach,Tom Petty,Tom Nights,LP,Rock,13,119,1,7,35.29
+Lake Worth,Dania Beach,Tom Petty,Tom Nights,LP,Rock,9,18,1,5,35.29
+Dania Beach,Lake Worth,Floating Points,Floating Standards,LP,Electronic,9,53,1,5,34.89
+Oakland Park,Dania Beach,Buena Vista Social Club,Basement Tapes,"7""",Latin,12,106,4,6,34.72
+Dania Beach,Oakland Park,A Tribe Called Quest,Echoes,CD,Hip-Hop,5,157,4,2,32.48
+Lake Worth,Oakland Park,A Tribe Called Quest,Echoes,CD,Hip-Hop,7,41,4,4,32.48
+Oakland Park,Dania Beach,Thelonious Monk,Horizons,"7""",Jazz,6,100,6,3,31.14
+Oakland Park,Dania Beach,Burning Spear,Live at the Regal,LP,Reggae,5,48,1,2,30.27
+Lake Worth,Dania Beach,Burning Spear,Live at the Regal,LP,Reggae,7,5,1,4,30.27
+Dania Beach,Lake Worth,Iron Maiden,Vol. II,CD,Metal,6,24,2,3,28.76
+Oakland Park,Dania Beach,Erik Satie,Grooves,CD,Classical,9,146,2,5,26.46
+Lake Worth,Dania Beach,Erik Satie,Grooves,CD,Classical,8,5,2,4,26.46
+Dania Beach,Oakland Park,Tom Petty,Nights,LP,Rock,5,119,1,2,26.15
+Oakland Park,Dania Beach,Burial,Horizons,LP,Electronic,10,95,1,5,25.5
+Oakland Park,Dania Beach,Led Zeppelin,Selected Works,LP,Rock,11,113,1,6,25.28
+Oakland Park,Lake Worth,Pantera,Motion,LP,Metal,13,148,1,7,24.16
+Oakland Park,Dania Beach,Sly & The Family Stone,Selected Works,LP,Soul/Funk,8,159,1,4,22.05
+Lake Worth,Oakland Park,Sister Nancy,Sister Nights,LP,Reggae,6,36,1,3,18.06
+Lake Worth,Dania Beach,Slayer,Coastline,CD,Metal,9,30,1,5,15.88
+Lake Worth,Oakland Park,MF DOOM,Basement Tapes,LP,Hip-Hop,6,26,1,3,14.88
+Oakland Park,Lake Worth,Willie Colon,Echoes,"7""",Latin,5,35,1,3,14.79
+Dania Beach,Lake Worth,Bad Bunny,Frequencies,CD,Latin,8,23,1,4,12.2
+Dania Beach,Oakland Park,Al Green,Standards,Cassette,Soul/Funk,5,36,1,3,12.13
+Dania Beach,Lake Worth,Tom Petty,Reflections,LP,Rock,5,148,1,3,9.83
+Oakland Park,Dania Beach,Curtis Mayfield,Motion,Cassette,Soul/Funk,11,83,2,6,9.08
+Oakland Park,Dania Beach,My Bloody Valentine,Coastline,LP,Alternative,10,308,0,5,0.0
+Lake Worth,Dania Beach,Sonic Youth,Live at the Regal,LP,Alternative,6,276,0,3,0.0
+Dania Beach,Lake Worth,The Cure,Nights,LP,Alternative,5,245,0,3,0.0
+Oakland Park,Dania Beach,Mastodon,The Early Years,LP,Metal,8,185,0,4,0.0
+Dania Beach,Oakland Park,Tom Petty,Reflections,LP,Rock,5,148,0,3,0.0
+Oakland Park,Lake Worth,Nas,Vol. II,LP,Hip-Hop,13,141,0,7,0.0
+Oakland Park,Dania Beach,MF DOOM,Afterhours,CD,Hip-Hop,11,133,0,6,0.0
+Oakland Park,Lake Worth,Led Zeppelin,Selected Works,LP,Rock,11,113,0,6,0.0
+Oakland Park,Lake Worth,MF DOOM,Standards,"7""",Hip-Hop,5,22,0,3,0.0
+Lake Worth,Dania Beach,Aphex Twin,Grooves,CD,Electronic,5,14,0,3,0.0

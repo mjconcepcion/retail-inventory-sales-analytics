@@ -1,0 +1,165 @@
+location,artist,title,genre,sold_last_60d_all_stores
+Dania Beach,Burial,Rarities,Electronic,15
+Dania Beach,Herbie Hancock,Nights,Jazz,9
+Lake Worth,Pink Floyd,Anthology,Rock,9
+Oakland Park,A Tribe Called Quest,Echoes,Hip-Hop,9
+Dania Beach,Erik Satie,Grooves,Classical,8
+Oakland Park,Floating Points,Floating Live at the Regal,Electronic,8
+Dania Beach,Tom Petty,Tom Nights,Rock,7
+Dania Beach,Buena Vista Social Club,Basement Tapes,Latin,7
+Dania Beach,Alice Coltrane,Basement Tapes,Jazz,7
+Dania Beach,Burial,Horizons,Electronic,6
+Dania Beach,Thelonious Monk,Horizons,Jazz,6
+Dania Beach,Buena Vista Social Club,Motion,Latin,6
+Dania Beach,Burial,Anthology,Electronic,6
+Dania Beach,Miles Davis,Anthology,Jazz,6
+Lake Worth,Bad Bunny,Frequencies,Latin,6
+Lake Worth,Radiohead,Grooves,Alternative,6
+Oakland Park,Bad Bunny,Frequencies,Latin,6
+Oakland Park,Radiohead,Grooves,Alternative,6
+Oakland Park,Boards of Canada,Selected Works,Electronic,6
+Oakland Park,A Tribe Called Quest,A Blueprint,Hip-Hop,6
+Dania Beach,Al Green,Afterhours,Soul/Funk,5
+Dania Beach,Black Sabbath,Rarities,Metal,5
+Dania Beach,Pantera,Horizons,Metal,5
+Dania Beach,Sly & The Family Stone,Selected Works,Soul/Funk,5
+Dania Beach,The Rolling Stones,Basement Tapes,Rock,5
+Dania Beach,Bad Bunny,Nights,Latin,5
+Dania Beach,A Tribe Called Quest,Interstellar,Hip-Hop,5
+Dania Beach,Pantera,Standards,Metal,5
+Dania Beach,Willie Colon,Afterhours,Latin,5
+Dania Beach,Tom Petty,Tom Anthology,Rock,5
+Dania Beach,Led Zeppelin,Frequencies,Rock,5
+Dania Beach,Santana,Vol. II,Rock,5
+Lake Worth,Pantera,Horizons,Metal,5
+Lake Worth,Willie Colon,Afterhours,Latin,5
+Oakland Park,Willie Colon,Afterhours,Latin,5
+Oakland Park,Grant Green,Interstellar,Jazz,5
+Oakland Park,Led Zeppelin,Live at the Regal,Rock,5
+Dania Beach,Led Zeppelin,Frequencies,Rock,4
+Dania Beach,Curtis Mayfield,Motion,Soul/Funk,4
+Dania Beach,Parliament,Parliament Frequencies,Soul/Funk,4
+Dania Beach,Iron Maiden,Sessions,Metal,4
+Dania Beach,Wu-Tang Clan,Rarities,Hip-Hop,4
+Dania Beach,Radiohead,Nights,Alternative,4
+Dania Beach,Bad Bunny,In Dub,Latin,4
+Dania Beach,Grant Green,Blueprint,Jazz,4
+Lake Worth,Led Zeppelin,Frequencies,Rock,4
+Lake Worth,Radiohead,Motion,Alternative,4
+Lake Worth,MF DOOM,Echoes,Hip-Hop,4
+Lake Worth,Parliament,Parliament Frequencies,Soul/Funk,4
+Lake Worth,Aphex Twin,Aphex Echoes,Electronic,4
+Lake Worth,Radiohead,Nights,Alternative,4
+Lake Worth,Floating Points,Floating Standards,Electronic,4
+Lake Worth,Bad Bunny,In Dub,Latin,4
+Lake Worth,Thelonious Monk,Thelonious Frequencies,Jazz,4
+Oakland Park,Led Zeppelin,Frequencies,Rock,4
+Oakland Park,Parliament,Parliament Frequencies,Soul/Funk,4
+Oakland Park,Iron Maiden,Sessions,Metal,4
+Dania Beach,Burning Spear,Live at the Regal,Reggae,3
+Dania Beach,J.S. Bach,J.S. Basement Tapes,Classical,3
+Dania Beach,A Tribe Called Quest,Rarities,Hip-Hop,3
+Dania Beach,Aphex Twin,Grooves,Electronic,3
+Dania Beach,Nas,Sessions,Hip-Hop,3
+Dania Beach,My Bloody Valentine,Coastline,Alternative,3
+Dania Beach,Wu-Tang Clan,Wu-Tang Horizons,Hip-Hop,3
+Dania Beach,Aphex Twin,Grooves,Electronic,3
+Dania Beach,Pantera,Motion,Metal,3
+Dania Beach,MF DOOM,Grooves,Hip-Hop,3
+Lake Worth,Willie Colon,Afterhours,Latin,3
+Lake Worth,MF DOOM,Standards,Hip-Hop,3
+Lake Worth,Iron Maiden,Vol. II,Metal,3
+Lake Worth,A Tribe Called Quest,Rarities,Hip-Hop,3
+Lake Worth,Roy Ayers,Roy Blueprint,Soul/Funk,3
+Lake Worth,My Bloody Valentine,Coastline,Alternative,3
+Lake Worth,Pantera,Motion,Metal,3
+Lake Worth,MF DOOM,Grooves,Hip-Hop,3
+Lake Worth,A Tribe Called Quest,Blueprint,Hip-Hop,3
+Oakland Park,Burning Spear,In Dub,Reggae,3
+Oakland Park,Boards of Canada,Sessions,Electronic,3
+Oakland Park,J.S. Bach,J.S. Basement Tapes,Classical,3
+Oakland Park,A Tribe Called Quest,Rarities,Hip-Hop,3
+Oakland Park,Roy Ayers,Roy Blueprint,Soul/Funk,3
+Oakland Park,Four Tet,Nights,Electronic,3
+Oakland Park,Nas,Anthology,Hip-Hop,3
+Oakland Park,MF DOOM,Grooves,Hip-Hop,3
+Dania Beach,Grant Green,Basement Tapes,Jazz,2
+Dania Beach,Fleetwood Mac,Fleetwood Afterhours,Rock,2
+Dania Beach,Roy Ayers,Unplugged,Soul/Funk,2
+Dania Beach,MF DOOM,Afterhours,Hip-Hop,2
+Dania Beach,Herbie Hancock,Anthology,Jazz,2
+Dania Beach,Claude Debussy,Claude Vol. II,Classical,2
+Dania Beach,Pink Floyd,Frequencies,Rock,2
+Dania Beach,Wu-Tang Clan,Live at the Regal,Hip-Hop,2
+Dania Beach,Mastodon,The Early Years,Metal,2
+Dania Beach,Fleetwood Mac,Standards,Rock,2
+Dania Beach,Led Zeppelin,Selected Works,Rock,2
+Dania Beach,Radiohead,Afterhours,Alternative,2
+Dania Beach,Radiohead,Echoes,Alternative,2
+Dania Beach,Slayer,Coastline,Metal,2
+Dania Beach,Radiohead,The Early Years,Alternative,2
+Lake Worth,Grant Green,Basement Tapes,Jazz,2
+Lake Worth,The Cure,Nights,Alternative,2
+Lake Worth,Claude Debussy,Claude Vol. II,Classical,2
+Lake Worth,Wu-Tang Clan,Unplugged,Hip-Hop,2
+Lake Worth,Led Zeppelin,Selected Works,Rock,2
+Lake Worth,Claude Debussy,Afterhours,Classical,2
+Lake Worth,Four Tet,Four Grooves,Electronic,2
+Lake Worth,Led Zeppelin,Echoes,Rock,2
+Oakland Park,Pixies,Rarities,Alternative,2
+Oakland Park,Roy Ayers,Unplugged,Soul/Funk,2
+Oakland Park,Philip Glass,Afterhours,Classical,2
+Oakland Park,Pantera,Sessions,Metal,2
+Oakland Park,MF DOOM,MF Live at the Regal,Hip-Hop,2
+Oakland Park,Sister Nancy,Sister Nights,Reggae,2
+Oakland Park,Claude Debussy,Claude Vol. II,Classical,2
+Oakland Park,Wu-Tang Clan,Live at the Regal,Hip-Hop,2
+Oakland Park,My Bloody Valentine,Frequencies,Alternative,2
+Oakland Park,MF DOOM,Basement Tapes,Hip-Hop,2
+Oakland Park,Led Zeppelin,Echoes,Rock,2
+Dania Beach,Alice Coltrane,Reflections,Jazz,1
+Dania Beach,Led Zeppelin,Vol. II,Rock,1
+Dania Beach,Boards of Canada,Boards Interstellar,Electronic,1
+Dania Beach,Nas,Basement Tapes,Hip-Hop,1
+Dania Beach,Boards of Canada,Coastline,Electronic,1
+Dania Beach,Marvin Gaye,The Early Years,Soul/Funk,1
+Dania Beach,Selena,Grooves,Latin,1
+Dania Beach,Gregory Isaacs,Horizons,Reggae,1
+Dania Beach,Herbie Hancock,Live at the Regal,Jazz,1
+Dania Beach,Pixies,Reflections,Alternative,1
+Dania Beach,Led Zeppelin,Blueprint,Rock,1
+Dania Beach,Black Sabbath,Sessions,Metal,1
+Dania Beach,Tom Petty,Unplugged,Rock,1
+Dania Beach,Juan Luis Guerra,Sessions,Latin,1
+Dania Beach,Sly & The Family Stone,Sessions,Soul/Funk,1
+Lake Worth,Tom Petty,Reflections,Rock,1
+Lake Worth,Slayer,Rarities,Metal,1
+Lake Worth,Nas,Basement Tapes,Hip-Hop,1
+Lake Worth,Willie Colon,Echoes,Latin,1
+Lake Worth,Aphex Twin,Anthology,Electronic,1
+Lake Worth,Gregory Isaacs,Horizons,Reggae,1
+Lake Worth,Four Tet,Blueprint,Electronic,1
+Lake Worth,The Cure,Motion,Alternative,1
+Lake Worth,Led Zeppelin,Blueprint,Rock,1
+Lake Worth,Black Sabbath,Sessions,Metal,1
+Lake Worth,Tom Petty,Echoes,Rock,1
+Lake Worth,J Dilla,Vol. II,Hip-Hop,1
+Lake Worth,Sly & The Family Stone,Sessions,Soul/Funk,1
+Oakland Park,Tom Petty,Reflections,Rock,1
+Oakland Park,Slayer,Rarities,Metal,1
+Oakland Park,Nas,Basement Tapes,Hip-Hop,1
+Oakland Park,Marvin Gaye,The Early Years,Soul/Funk,1
+Oakland Park,Tom Petty,Nights,Rock,1
+Oakland Park,Al Green,Standards,Soul/Funk,1
+Oakland Park,OutKast,Grooves,Hip-Hop,1
+Oakland Park,Philip Glass,Nights,Classical,1
+Oakland Park,Pixies,Reflections,Alternative,1
+Oakland Park,The Cure,Motion,Alternative,1
+Oakland Park,Augustus Pablo,Motion,Reggae,1
+Oakland Park,Tom Petty,Unplugged,Rock,1
+Oakland Park,Tom Petty,Echoes,Rock,1
+Oakland Park,Juan Luis Guerra,Sessions,Latin,1
+Oakland Park,Slayer,Rarities,Metal,1
+Oakland Park,J Dilla,Vol. II,Hip-Hop,1
+Oakland Park,Sly & The Family Stone,Sessions,Soul/Funk,1
+Oakland Park,Fleetwood Mac,Coastline,Rock,1
