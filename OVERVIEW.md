@@ -31,12 +31,13 @@ The goal is a clean, complete, recruiter-friendly repo — **not** a complex app
 
 ## Data strategy: Clover-shaped synthetic data
 
-Misael has **manager access to a real record store's Clover POS** (report CSV exports available; API tokens are owner-only). The store's real data is confidential and stays off GitHub, but we use it in two safe ways:
+The company runs **3 stores as separate Clover merchant accounts**. Misael has admin privileges on two (can create read-only API tokens) and manager access on the third (CSV report exports). The stores' real data is confidential and stays off GitHub, but we use the access in safe ways:
 
 1. **Schema realism** — the synthetic generator emits CSVs matching **Clover's actual export formats** (Item Sales, Sales Report, Inventory export). The README can truthfully say the pipeline ingests Clover POS export formats — a real-world credential, not a toy format.
-2. **Private validation** — real exports run through the same pipeline locally (git-ignored `data/private/`), so findings and interview talking points are grounded in real behavior. Nothing confidential is ever committed.
+2. **Private validation** — real data runs through the same pipeline locally (git-ignored `data/private/`), so findings and interview talking points are grounded in real behavior. Nothing confidential is ever committed.
+3. **API ingestion module (later phase)** — `src/fetch_clover.py` pulls orders/items/stock from the two admin stores via the Clover REST API (read-only tokens in git-ignored `.env`) and normalizes into the pipeline's canonical schema; the manager-access store ingests via CSV export. The script itself is public — heterogeneous multi-store ingestion is a strong real-world credential.
 
-Optional v2 (owner permission required): publish anonymized, rescaled real data.
+Optional v2 (owner permission required): publish anonymized, rescaled real data — or deliver the transfer-recommendation analysis to the owner as a real business win.
 
 ## Data model
 
