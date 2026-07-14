@@ -61,7 +61,7 @@ def load_env() -> list[dict]:
         mid = values.get(f"CLOVER_STORE{n}_MID", "")
         token = values.get(f"CLOVER_STORE{n}_TOKEN", "")
         name = values.get(f"CLOVER_STORE{n}_NAME", f"Store {n}")
-        if mid and token and not mid.startswith("X") and not token.startswith("0000"):
+        if mid and token and mid != "XXXXXXXXXXXXX" and token != "00000000-0000-0000-0000-000000000000":
             stores.append({"name": name, "mid": mid, "token": token})
     if not stores:
         sys.exit("No configured stores in .env (placeholders don't count).")
