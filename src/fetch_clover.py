@@ -142,8 +142,11 @@ def fetch_products(store: dict) -> pd.DataFrame:
 def fetch_sales(store: dict, since: date) -> pd.DataFrame:
     rows = []
     for start_ms, end_ms in month_windows(since):
+        # Clover silently restricts the orders list to ~90 days when
+        # filtered by createdTime; clientCreatedTime has no such cap and
+        # differs only by device clock vs server clock.
         params = {
-            "filter": [f"createdTime>={start_ms}", f"createdTime<{end_ms}"],
+            "filter": [f"clientCreatedTime>={start_ms}", f"clientCreatedTime<{end_ms}"],
             "expand": "lineItems",
         }
         for order in paged(store, "orders", params):
