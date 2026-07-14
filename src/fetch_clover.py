@@ -170,6 +170,39 @@ def fetch_sales(store: dict, since: date) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def fetch_payments(store: dict, since: date) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Payments (amount actually collected, incl. tax/tips) and refunds."""
+    pay_rows = []
+    for start_ms, end_ms in month_windows(since):
+        params = {"filter": [f"clientCreatedTime>={start_ms}", f"clientCreatedTime<{end_ms}"]}
+        for pay in paged(store, "payments", params):
+            created = datetime.fromtimestamp(pay["createdTime"] / 1000, tz=timezone.utc)
+            pay_rows.append({
+                "payment_id": pay["id"],
+                "payment_date": created.date().isoformat(),
+                "location": store["name"],
+                "order_id": (pay.get("order") or {}).get("id"),
+                "amount": cents(pay.get("amount")) or 0.0,
+                "tip_amount": cents(pay.get("tipAmount")) or 0.0,
+                "tax_amount": cents(pay.get("taxAmount")) or 0.0,
+                "result": pay.get("result", ""),
+            })
+        print(f"  {store['name']} payments: through "
+              f"{datetime.fromtimestamp(end_ms/1000, tz=timezone.utc).date()} ({len(pay_rows):,})")
+
+    refund_rows = []
+    for refund in paged(store, "refunds"):
+        created = datetime.fromtimestamp(refund["createdTime"] / 1000, tz=timezone.utc)
+        refund_rows.append({
+            "refund_id": refund["id"],
+            "refund_date": created.date().isoformat(),
+            "location": store["name"],
+            "payment_id": (refund.get("payment") or {}).get("id"),
+            "amount": cents(refund.get("amount")) or 0.0,
+        })
+    return pd.DataFrame(pay_rows), pd.DataFrame(refund_rows)
+
+
 def fetch_inventory(store: dict, snapshot: date) -> pd.DataFrame:
     rows = []
     for stock in paged(store, "item_stocks"):
@@ -196,6 +229,8 @@ def main() -> None:
                         default=date.today() - timedelta(days=365))
     parser.add_argument("--check", action="store_true",
                         help="only verify each store's token, no data pull")
+    parser.add_argument("--only", choices=["catalog", "orders", "inventory", "payments"],
+                        default=None, help="pull a single dataset instead of all")
     args = parser.parse_args()
 
     stores = load_env()
@@ -207,17 +242,33 @@ def main() -> None:
     out_dir = PRIVATE / snapshot.isoformat()
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    products, sales, inventory = [], [], []
+    def wants(kind: str) -> bool:
+        return args.only is None or args.only == kind
+
+    products, sales, inventory, payments, refunds = [], [], [], [], []
     for store in stores:
         print(f"== {store['name']} ==")
-        products.append(fetch_products(store))
-        sales.append(fetch_sales(store, args.since))
-        inventory.append(fetch_inventory(store, snapshot))
+        if wants("catalog"):
+            products.append(fetch_products(store))
+        if wants("orders"):
+            sales.append(fetch_sales(store, args.since))
+        if wants("inventory"):
+            inventory.append(fetch_inventory(store, snapshot))
+        if wants("payments"):
+            pays, refs = fetch_payments(store, args.since)
+            payments.append(pays)
+            refunds.append(refs)
 
     # Same item can exist per-merchant; keep first occurrence per product_id.
-    pd.concat(products).drop_duplicates("product_id").to_csv(out_dir / "products.csv", index=False)
-    pd.concat(sales).to_csv(out_dir / "sales.csv", index=False)
-    pd.concat(inventory).to_csv(out_dir / "inventory.csv", index=False)
+    if products:
+        pd.concat(products).drop_duplicates("product_id").to_csv(out_dir / "products.csv", index=False)
+    if sales:
+        pd.concat(sales).to_csv(out_dir / "sales.csv", index=False)
+    if inventory:
+        pd.concat(inventory).to_csv(out_dir / "inventory.csv", index=False)
+    if payments:
+        pd.concat(payments).to_csv(out_dir / "payments.csv", index=False)
+        pd.concat(refunds).to_csv(out_dir / "refunds.csv", index=False)
     print(f"\nwritten to {out_dir} (git-ignored)")
 
 
