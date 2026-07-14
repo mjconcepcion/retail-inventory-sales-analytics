@@ -156,12 +156,16 @@ def fetch_sales(store: dict, since: date) -> pd.DataFrame:
                     -d.get("amount", 0) if d.get("amount", 0) < 0 else d.get("amount", 0)
                     for d in li.get("discounts", {}).get("elements", [])
                 )
+                # Clover's unitQty is in thousandths of a unit (1000 = 1);
+                # absent for normal per-item lines.
+                unit_qty = li.get("unitQty")
+                quantity = (unit_qty / 1000) if unit_qty else 1
                 rows.append({
                     "sale_id": li["id"],
                     "sale_date": created.date().isoformat(),
                     "location": store["name"],
                     "product_id": (li.get("item") or {}).get("id"),
-                    "quantity": li.get("unitQty", 1) or 1,
+                    "quantity": quantity,
                     "unit_price": cents(li.get("price")),
                     "discount": cents(discounts) or 0.0,
                 })
