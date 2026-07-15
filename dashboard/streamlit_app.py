@@ -27,10 +27,20 @@ from run_analysis import ANALYSIS_FILES, named_queries  # noqa: E402
 DB_PATH = ROOT / "data" / "processed" / "store.db"
 
 # The .db is git-ignored; on a fresh checkout (e.g. Streamlit Cloud) build
-# it from the committed cleaned CSVs.
+# it from the committed cleaned CSVs. Cloud mounts the repo read-only, so
+# fall back to the temp directory when the repo path can't be written.
 if not DB_PATH.exists():
+    import sqlite3 as _sqlite3
+    import tempfile
+
     import load_db
-    load_db.main()
+
+    try:
+        load_db.main(DB_PATH)
+    except _sqlite3.OperationalError:
+        DB_PATH = Path(tempfile.gettempdir()) / "store.db"
+        if not DB_PATH.exists():
+            load_db.main(DB_PATH)
 
 # --- palette (fixed identity colors; magnitude bars use a single hue) ---
 BLUE, AQUA, YELLOW = "#2a78d6", "#1baf7a", "#eda100"

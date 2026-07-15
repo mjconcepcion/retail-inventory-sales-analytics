@@ -28,8 +28,8 @@ TABLES = {
 }
 
 
-def main() -> None:
-    con = sqlite3.connect(DB_PATH)
+def main(db_path: Path = DB_PATH) -> None:
+    con = sqlite3.connect(db_path)
     try:
         con.executescript(SCHEMA.read_text(encoding="utf-8"))
         for table, csv_name in TABLES.items():
@@ -40,7 +40,7 @@ def main() -> None:
         con.commit()
     finally:
         con.close()
-    print(f"database -> {DB_PATH.relative_to(ROOT)}")
+    print(f"database -> {db_path}")
 
 
 if __name__ == "__main__":
