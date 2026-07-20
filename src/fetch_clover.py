@@ -126,7 +126,8 @@ def fetch_products(store: dict) -> pd.DataFrame:
         categories = [c.get("name", "") for c in item.get("categories", {}).get("elements", [])]
         rows.append({
             "product_id": item["id"],
-            "sku": item.get("sku") or item.get("code"),
+            "sku": item.get("sku"),
+            "upc": item.get("code"),
             "artist": artist,
             "title": title,
             "format": "",                      # not a Clover concept
